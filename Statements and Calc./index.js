@@ -148,3 +148,7 @@ if ( 10>3 || 15!="15" ){
     console.log("This prints if none of the statements are true")
 }
 
+
+
+
+//===================JavaScipt Operators
